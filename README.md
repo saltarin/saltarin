@@ -9,4 +9,4 @@
 - :mailbox: Contact me by [linkedin](https://www.linkedin.com/in/saltarin)
 - :shipit: I like to play retrogames and watch movies.
 
-![WakaTime Stats](https://wakatime.com/share/@f55c0a06-417a-4cf4-b7d3-02fc7920947f/6c047a9d-54e6-48b6-b3d1-9acc099e92f1.svg)
+<img src="https://wakatime.com/share/@f55c0a06-417a-4cf4-b7d3-02fc7920947f/6c047a9d-54e6-48b6-b3d1-9acc099e92f1.svg" width="400" />
